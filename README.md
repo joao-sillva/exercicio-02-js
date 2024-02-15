@@ -1,0 +1,1 @@
+# Explorer - Exercícios 2 - JavaScript
